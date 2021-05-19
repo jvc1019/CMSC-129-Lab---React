@@ -1,3 +1,5 @@
+This is a React Crash Course project by Traversy Media on the following link: https://www.youtube.com/watch?v=w7ejDZ8SWv8 explicitly followed step-by-step by Jayvee B. Castañeda, a 3rd year B.S. in Computer Science student from UPV.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
